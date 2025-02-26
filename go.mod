@@ -1,4 +1,4 @@
-module go-tracklist-creator
+module github.com/advanceddev/go-tracklist-creator
 
 go 1.24.0
 
